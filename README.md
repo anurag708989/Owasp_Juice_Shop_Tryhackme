@@ -18,4 +18,4 @@ Command Injection - Command Injection is when web applications take input or use
 Email Injection - Email injection is a security vulnerability that allows malicious users to send email messages without prior authorization by the email server. These occur when the attacker adds extra data to fields, which are not interpreted by the server correctly. 
 
 1-log into administrator account
-![](/blob/master/ctf/tryhackme/owasp%20juice%20shop/administratoremail.png)
+![](/ctf/tryhackme/owasp%20juice%20shop/administratoremail.png)
