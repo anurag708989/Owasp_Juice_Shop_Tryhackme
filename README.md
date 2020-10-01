@@ -48,6 +48,9 @@ password-admin123
 1-Brute force the administrator account password
 using burp suit intruder for setuping the payload and then brute forcing the 
 passwords
+
+
+
 c2110d06dc6f81c67cd8099ff0ba601241f1ac0e
 
 
@@ -59,6 +62,9 @@ c2110d06dc6f81c67cd8099ff0ba601241f1ac0e
 
 #5-AH dont look
 1-confidential document acquisitions.md
+
+
+
  edf9281222395a1c5fee9b89e32175f1ccf50c5b
 
 2-log into MC safeSearch's Account
@@ -70,10 +76,15 @@ eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdGF0dXMiOiJzdWNjZXNzIiwiZGF0YSI6eyJpZCI
 password hash-b03f4b0ba8b458fa0acdc02cdb953bc8
 it doesnot works
 3-forgotten developer backup
+
+
+
  bfc1e6b4a16579e85e06fee4c36ff8c02fb13795 
 
 
 
 
 2- log  into bender account using bender@juice-sh.op'-- as the email
+
+
 fb364762a3c102b2db932069c0e6b78e738d4066
