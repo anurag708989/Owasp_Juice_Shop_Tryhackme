@@ -73,6 +73,34 @@ it doesnot works
  bfc1e6b4a16579e85e06fee4c36ff8c02fb13795 
 
 
+#-who Flying this thing
+
+
+
+#1-access to administration page 
+
+
+
+useful url-https://codebeautify.org/jsviewer
+
+login as 
+username-admin@juice-sh.op
+password-admin123
+![](/ctf/tryhackme/owasp%20juice%20shop/administration_page_found.png)
+
+flag-  946a799363226a24822008503f5d1324536629a0
+
+
+2-use burpsuit and change userID
+
+
+
+
+3-remove a five star review
+![](/ctf/tryhackme/owasp%20juice%20shop/remove_five_star.png)
+
+flag- 50c97bcce0b895e446d61c83a21df371ac2266ef
+
 
 
 2- log  into bender account using bender@juice-sh.op'-- as the email
