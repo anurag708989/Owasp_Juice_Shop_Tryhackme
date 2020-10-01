@@ -33,7 +33,8 @@ use 'or1=1-- as an email paramter for login as admin
 #flag-32a5e0f21372bcc1000a6088b93b458e41f0e02a
 
 ![](/ctf/tryhackme/owasp%20juice%20shop/administrator_flag.png)
-
+2- log  into bender account using bender@juice-sh.op'-- as the email
+fb364762a3c102b2db932069c0e6b78e738d4066
 
 #4 who broke my lock
 
@@ -103,5 +104,4 @@ flag- 50c97bcce0b895e446d61c83a21df371ac2266ef
 
 
 
-2- log  into bender account using bender@juice-sh.op'-- as the email
-fb364762a3c102b2db932069c0e6b78e738d4066
+
