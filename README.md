@@ -48,9 +48,6 @@ password-admin123
 1-Brute force the administrator account password
 using burp suit intruder for setuping the payload and then brute forcing the 
 passwords
-
-
-
 c2110d06dc6f81c67cd8099ff0ba601241f1ac0e
 
 
@@ -62,9 +59,6 @@ c2110d06dc6f81c67cd8099ff0ba601241f1ac0e
 
 #5-AH dont look
 1-confidential document acquisitions.md
-
-
-
  edf9281222395a1c5fee9b89e32175f1ccf50c5b
 
 2-log into MC safeSearch's Account
@@ -76,15 +70,38 @@ eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdGF0dXMiOiJzdWNjZXNzIiwiZGF0YSI6eyJpZCI
 password hash-b03f4b0ba8b458fa0acdc02cdb953bc8
 it doesnot works
 3-forgotten developer backup
-
-
-
  bfc1e6b4a16579e85e06fee4c36ff8c02fb13795 
 
+
+#-who Flying this thing
+
+
+
+#1-access to administration page 
+
+
+
+useful url-https://codebeautify.org/jsviewer
+
+login as 
+username-admin@juice-sh.op
+password-admin123
+![](/ctf/tryhackme/owasp%20juice%20shop/administration_page_found.png)
+
+flag-  946a799363226a24822008503f5d1324536629a0
+
+
+2-use burpsuit and change userID
+
+
+
+
+3-remove a five star review
+![](/ctf/tryhackme/owasp%20juice%20shop/remove_five_star.png)
+
+flag- 50c97bcce0b895e446d61c83a21df371ac2266ef
 
 
 
 2- log  into bender account using bender@juice-sh.op'-- as the email
-
-
 fb364762a3c102b2db932069c0e6b78e738d4066
